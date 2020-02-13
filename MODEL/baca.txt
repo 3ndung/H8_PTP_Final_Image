@@ -1,1 +1,4 @@
 Model ini dengan akurasi 0.829
+Karena model size > 100 MB
+
+jadi bisa diDownlod di link berikut --> https://drive.google.com/open?id=1sanBzKMpdhUJH-GDB6_RjPFYtT2WSEn6
