@@ -2,3 +2,8 @@ Model ini dengan akurasi 0.829
 Karena model size > 100 MB
 
 jadi bisa diDownlod di link berikut --> https://drive.google.com/open?id=1sanBzKMpdhUJH-GDB6_RjPFYtT2WSEn6
+
+
+model with T-HUB ---> https://drive.google.com/open?id=1-0wDkaTxgIETVCoPBpJVXiODwC3m5vtP
+
+model with preTrain --> https://drive.google.com/open?id=1-BhE4jIl_U60PIY7nEWgEMpHUCFriexP
