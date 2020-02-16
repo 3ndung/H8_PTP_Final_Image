@@ -1,0 +1,3 @@
+Actually tf.keras.preprocessing.image.ImageDataGenerator
+menggubah bentuk image kedalam array X dimensi, dan juga meng-encode Label bila ada
+
